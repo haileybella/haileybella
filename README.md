@@ -1,6 +1,6 @@
 <h2 align="left"> ⋆｡°✩ Hi! 🪐 𖦹⋆｡˚ </h2> 
 
-<h3 align="left"> i’m hailey & welcome to my tech space</h3>
+<h3 align="left"> I’m hailey & welcome to my tech space</h3>
 <p align="left">
 • cs student @ UTSA 💻 <br>
 • google ux design + working on google cybersecurity <br>
