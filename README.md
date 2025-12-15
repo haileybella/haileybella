@@ -1,10 +1,10 @@
-<h2 align="left"> ⋆｡°✩ Hi! 🪐 𖦹⋆｡˚ </h2> 
+<h2 align="left"> ⋆｡°✩ Hi, I;m Hailey ⋆｡˚ </h2> 
 
-<h3 align="left"> I’m hailey & welcome to my tech space</h3>
+<h3 align="left"> Welcome to my tech space — where I code, design, analyze, and build</h3>
 <p align="left">
 • cs student @ UTSA 💻 <br>
-• google ux design + working on google cybersecurity <br>
-• data Science (Python, SQL, Tableau, KWK '25) <br>
+• google ux design <br>
+• Interested in Data Science, AI/ML, and Human‑Centered Tech <br>
 • coding, designing, building (and always learning 🌱) <br>
 • future goals: more projects & more creating 
 </p>
