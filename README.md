@@ -21,8 +21,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 
 </p>
-
-
-
-
-![hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileybella&icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian)
