@@ -1,12 +1,14 @@
-<h2 align="left"> ⋆｡°✩ Hi, I'm Hailey ⋆｡˚ </h2> 
+<h2 align="left"> Hi, I'm Hailey </h2> 
 
-<h3 align="left"> Welcome to my tech space — where I code, design, analyze, and build</h3>
+<h3 align="left">Welcome to my tech space — where I code, research, design, and build.</h3>
+
 <p align="left">
-• cs student @ UTSA 💻 <br>
-• google ux design <br>
-• Interested in Data Science, AI/ML, and Human‑Centered Tech <br>
-• coding, designing, building (and always learning 🌱) <br>
-• future goals: more projects & more creating 
+• Computer Science student @ UTSA 💻 <br>
+• AI Education Research Intern <br>
+• Google UX Design Certificate <br>
+• Interested in AI/ML, Data Science, Human-Centered Technology, and AI Education <br>
+• Building projects, conducting research, and always learning 🌱 <br>
+• Future goals: create impactful projects & keep growing
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
