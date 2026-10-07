@@ -1,4 +1,4 @@
-## Hi, I'm Hailey
+## Hi, I'm Hailey Muñiz
 
 **CS @ UTSA · AI/ML · Software Engineering · AI Education**
 
